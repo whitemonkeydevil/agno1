@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.success{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: greenyellow;
+}
+.error{
+  color: red;
+}
+.pixi{
+  height:100px;width:900px
+
+}
