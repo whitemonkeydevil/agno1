@@ -11,9 +11,9 @@ function App() {
   return (
     <div>
       <Header websiteName={'Kallu Koyla'}/>
-      <ProfileHeader name={'Siddhesh Koli'} logo2={lassun}/>
+      <ProfileHeader name={'Siddhesh Koli'} logo2={garlic}/>
       <Body college={'Sakec'} age={20}/>
-      <Footer bio={'will sell Guns in wholesale'}/>
+      <Footer bio={'will sell KNOWLEDGE in wholesale'}/>
     </div>
   );
 }
